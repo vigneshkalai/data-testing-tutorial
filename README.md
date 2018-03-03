@@ -65,7 +65,8 @@ It should print to your terminal, `All packages found; environment checks passed
 
 # Authors
 
-- [Eric J. Ma](http://www.ericmjl.com)
+- [Eric J. Ma](https://www.ericmjl.com)
+- [Yulan I. Lin](https://y3l2n.com)
 
 # Contributors
 
@@ -81,6 +82,3 @@ Special thanks goes to individuals who have contributed in ways big and small to
 
 # Data Credits
 
-- [Divvy Data Set](https://www.divvybikes.com/data)
-- [Analyze Boston](https://data.boston.gov/)
-- Mia T. Lieberman for the sanitization dataset.
